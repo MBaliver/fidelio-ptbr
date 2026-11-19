@@ -3,7 +3,7 @@
 __pycache__/
 
 # gerados pelo build (refazer com os comandos do README)
-dist/
+# dist/ fica no git: tem o patch pronto
 texturas/
 
 # arquivos extraídos do jogo (refazer com tools/textures.py); textures.json fica

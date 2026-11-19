@@ -7,7 +7,10 @@ Fica em inglês: a narração do diário (o jogo não tem legendas para ela), o 
 
 O patch é um pak separado (`TheFidelioIncident-WindowsNoEditor_ptBR_P.pak`). Os arquivos originais do jogo não são alterados: para desinstalar, basta apagar esse pak.
 
-## Uso rápido
+## Instalar o patch pronto
+Copie `dist/TheFidelioIncident-WindowsNoEditor_ptBR_P.pak` para a pasta `TheFidelioIncident/Content/Paks/` do jogo. No Steam do Linux, essa pasta fica em `~/.local/share/Steam/steamapps/common/The Fidelio Incident/`.
+
+## Uso rápido (gerar o patch)
 ```sh
 python3 -m venv .venv && .venv/bin/pip install numpy pillow   # só na primeira vez
 PAK="$HOME/.local/share/Steam/steamapps/common/The Fidelio Incident/TheFidelioIncident/Content/Paks/TheFidelioIncident-WindowsNoEditor.pak"
@@ -16,11 +19,12 @@ python3 build.py              # gera dist/…_ptBR_P.pak e instala na pasta do j
 python3 build.py --no-install # só gera
 python3 build.py --uninstall  # remove o patch do jogo
 ```
-`dist/` e `texturas/` são gerados e não vão para o git. Rode o `inject_textures.py` sempre que mudar alguma imagem em `imagens/traduzidas/`.
+`texturas/` é gerado e não vai para o git. `dist/` fica no git com o patch pronto. Rode o `inject_textures.py` sempre que mudar alguma imagem em `imagens/traduzidas/`.
 
 ## Estrutura
 | Caminho | O que é |
 |---|---|
+| `dist/…_ptBR_P.pak` | Patch pronto (gerado em 18/11/2026, com 892 textos, 2 fontes e 31 texturas). |
 | `textos_en_pt.csv` | Todos os textos (inglês x português). Edite a coluna **portugues**; se ficar vazia, o texto continua em inglês. Não mexa em `chaves`. |
 | `build.py` | Monta o `Game.locres` (culturas en, pt e pt-BR) a partir do CSV. Empacota o locres, `fontes/` e `texturas/` num pak v3 sem compressão e instala. |
 | `fontes/` | `.uasset` das fontes manuscritas já com os acentos desenhados. `amostra.png` mostra o resultado. |
