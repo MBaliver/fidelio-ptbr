@@ -1,0 +1,871 @@
+[
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1052,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/01_Gatsby/1_GreatGatsby.uasset",
+  "png": "01_Gatsby.png",
+  "asset_size": 2098224
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1039,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/02_Brave/2_Brave.uasset",
+  "png": "02_Brave.png",
+  "asset_size": 2098211
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 972,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/03_Texas/3-Texas.uasset",
+  "png": "03_Texas.png",
+  "asset_size": 2098144
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1058,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/04_Margaret/4_MargaretKeene.uasset",
+  "png": "04_Margaret.png",
+  "asset_size": 2098230
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1054,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   },
+   {
+    "data_offset": 2098238,
+    "size": 524288,
+    "flags": 72,
+    "w": 1024,
+    "h": 512
+   },
+   {
+    "data_offset": 2622558,
+    "size": 131072,
+    "flags": 72,
+    "w": 512,
+    "h": 256
+   },
+   {
+    "data_offset": 2753662,
+    "size": 32768,
+    "flags": 72,
+    "w": 256,
+    "h": 128
+   },
+   {
+    "data_offset": 2786462,
+    "size": 8192,
+    "flags": 72,
+    "w": 128,
+    "h": 64
+   },
+   {
+    "data_offset": 2794686,
+    "size": 2048,
+    "flags": 72,
+    "w": 64,
+    "h": 32
+   },
+   {
+    "data_offset": 2796766,
+    "size": 512,
+    "flags": 72,
+    "w": 32,
+    "h": 16
+   },
+   {
+    "data_offset": 2797310,
+    "size": 128,
+    "flags": 72,
+    "w": 16,
+    "h": 8
+   },
+   {
+    "data_offset": 2797470,
+    "size": 32,
+    "flags": 72,
+    "w": 8,
+    "h": 4
+   },
+   {
+    "data_offset": 2797534,
+    "size": 16,
+    "flags": 72,
+    "w": 4,
+    "h": 4
+   },
+   {
+    "data_offset": 2797582,
+    "size": 16,
+    "flags": 72,
+    "w": 4,
+    "h": 4
+   },
+   {
+    "data_offset": 2797630,
+    "size": 16,
+    "flags": 72,
+    "w": 4,
+    "h": 4
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/05_Speech/5_PaddysSpeech.uasset",
+  "png": "05_Speech.png",
+  "asset_size": 2797666
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 993,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/06_StarryPlough/6-StarryPlough.uasset",
+  "png": "06_StarryPlough.png",
+  "asset_size": 2098165
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 983,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/07_Guitar/7-PlayGuitar.uasset",
+  "png": "07_Guitar.png",
+  "asset_size": 2098155
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 993,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/08_BrokenIsland/8-BrokenIsland.uasset",
+  "png": "08_BrokenIsland.png",
+  "asset_size": 2098165
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1053,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   },
+   {
+    "data_offset": 2098237,
+    "size": 524288,
+    "flags": 72,
+    "w": 1024,
+    "h": 512
+   },
+   {
+    "data_offset": 2622557,
+    "size": 131072,
+    "flags": 72,
+    "w": 512,
+    "h": 256
+   },
+   {
+    "data_offset": 2753661,
+    "size": 32768,
+    "flags": 72,
+    "w": 256,
+    "h": 128
+   },
+   {
+    "data_offset": 2786461,
+    "size": 8192,
+    "flags": 72,
+    "w": 128,
+    "h": 64
+   },
+   {
+    "data_offset": 2794685,
+    "size": 2048,
+    "flags": 72,
+    "w": 64,
+    "h": 32
+   },
+   {
+    "data_offset": 2796765,
+    "size": 512,
+    "flags": 72,
+    "w": 32,
+    "h": 16
+   },
+   {
+    "data_offset": 2797309,
+    "size": 128,
+    "flags": 72,
+    "w": 16,
+    "h": 8
+   },
+   {
+    "data_offset": 2797469,
+    "size": 32,
+    "flags": 72,
+    "w": 8,
+    "h": 4
+   },
+   {
+    "data_offset": 2797533,
+    "size": 16,
+    "flags": 72,
+    "w": 4,
+    "h": 4
+   },
+   {
+    "data_offset": 2797581,
+    "size": 16,
+    "flags": 72,
+    "w": 4,
+    "h": 4
+   },
+   {
+    "data_offset": 2797629,
+    "size": 16,
+    "flags": 72,
+    "w": 4,
+    "h": 4
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/09_Michael/9_OutOfPrison.uasset",
+  "png": "09_Michael.png",
+  "asset_size": 2797665
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1047,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/10_Fidelio/10_Fidelio.uasset",
+  "png": "10_Fidelio.png",
+  "asset_size": 2098219
+ },
+ {
+  "format": "PF_DXT1",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 944,
+    "size": 1048576,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/11_NewspaperPaddy/Diary_PaddyKilled.uasset",
+  "png": "11_NewspaperPaddy.png",
+  "asset_size": 1049540
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1054,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/12_Killed/12_PaddyKilled.uasset",
+  "png": "12_Killed.png",
+  "asset_size": 2098226
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1059,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/13_Funeral/13_PaddysFuneral.uasset",
+  "png": "13_Funeral.png",
+  "asset_size": 2098231
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 987,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/14_BlackPub/14-BlackPub_T.uasset",
+  "png": "14_BlackPub.png",
+  "asset_size": 2098159
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 990,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/15_MothBalls/15-MothBalls_T.uasset",
+  "png": "15_MothBalls.png",
+  "asset_size": 2098162
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1048,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/16_Rory/16_FightRory.uasset",
+  "png": "16_Rory.png",
+  "asset_size": 2098220
+ },
+ {
+  "format": "PF_DXT1",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 942,
+    "size": 1048576,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/17_NewspaperPubBomb/Diary_PubBombed.uasset",
+  "png": "17_NewspaperPubBomb.png",
+  "asset_size": 1049538
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1048,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/18_Bomb/18_PubBombed.uasset",
+  "png": "18_Bomb.png",
+  "asset_size": 2098220
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1064,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/19_Arrested/19_StanleyArrested.uasset",
+  "png": "19_Arrested.png",
+  "asset_size": 2098236
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1056,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/20_Wife/20_PrisonersWife.uasset",
+  "png": "20_Wife.png",
+  "asset_size": 2098228
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1052,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/22_Rescue/22_LifeIsOver.uasset",
+  "png": "22_Rescue.png",
+  "asset_size": 2098224
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1050,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/23_Plan/23_PlanEscape.uasset",
+  "png": "23_Plan.png",
+  "asset_size": 2098222
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 983,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/24_TheTruth/24-TheTruth.uasset",
+  "png": "24_TheTruth.png",
+  "asset_size": 2098155
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1044,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/25_Escape/25_Escape.uasset",
+  "png": "25_Escape.png",
+  "asset_size": 2098216
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 996,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/26_Freedom/26_SecurePassports.uasset",
+  "png": "26_Freedom.png",
+  "asset_size": 2098168
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1047,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/27_SadEyes/27_SadEyes.uasset",
+  "png": "27_SadEyes.png",
+  "asset_size": 2098219
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 978,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/28_Curry/28_Curry_T.uasset",
+  "png": "28_Curry.png",
+  "asset_size": 2098150
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1049,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/29_IrishDream/29-IrishDream.uasset",
+  "png": "29_IrishDream.png",
+  "asset_size": 2098221
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 993,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/30_VillageBoy/30_VillageBoy_T.uasset",
+  "png": "30_VillageBoy.png",
+  "asset_size": 2098165
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1078,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/31_Nightmares/31_TinyBodyandNightmares.uasset",
+  "png": "31_Nightmares.png",
+  "asset_size": 2098250
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 983,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   },
+   {
+    "data_offset": 2098167,
+    "size": 524288,
+    "flags": 72,
+    "w": 1024,
+    "h": 512
+   },
+   {
+    "data_offset": 2622487,
+    "size": 131072,
+    "flags": 72,
+    "w": 512,
+    "h": 256
+   },
+   {
+    "data_offset": 2753591,
+    "size": 32768,
+    "flags": 72,
+    "w": 256,
+    "h": 128
+   },
+   {
+    "data_offset": 2786391,
+    "size": 8192,
+    "flags": 72,
+    "w": 128,
+    "h": 64
+   },
+   {
+    "data_offset": 2794615,
+    "size": 2048,
+    "flags": 72,
+    "w": 64,
+    "h": 32
+   },
+   {
+    "data_offset": 2796695,
+    "size": 512,
+    "flags": 72,
+    "w": 32,
+    "h": 16
+   },
+   {
+    "data_offset": 2797239,
+    "size": 128,
+    "flags": 72,
+    "w": 16,
+    "h": 8
+   },
+   {
+    "data_offset": 2797399,
+    "size": 32,
+    "flags": 72,
+    "w": 8,
+    "h": 4
+   },
+   {
+    "data_offset": 2797463,
+    "size": 16,
+    "flags": 72,
+    "w": 4,
+    "h": 4
+   },
+   {
+    "data_offset": 2797511,
+    "size": 16,
+    "flags": 72,
+    "w": 4,
+    "h": 4
+   },
+   {
+    "data_offset": 2797559,
+    "size": 16,
+    "flags": 72,
+    "w": 4,
+    "h": 4
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/32_Manifest/32-Manifest.uasset",
+  "png": "32_Manifest.png",
+  "asset_size": 2797595
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 968,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   },
+   {
+    "data_offset": 2098152,
+    "size": 524288,
+    "flags": 72,
+    "w": 1024,
+    "h": 512
+   },
+   {
+    "data_offset": 2622472,
+    "size": 131072,
+    "flags": 72,
+    "w": 512,
+    "h": 256
+   },
+   {
+    "data_offset": 2753576,
+    "size": 32768,
+    "flags": 72,
+    "w": 256,
+    "h": 128
+   },
+   {
+    "data_offset": 2786376,
+    "size": 8192,
+    "flags": 72,
+    "w": 128,
+    "h": 64
+   },
+   {
+    "data_offset": 2794600,
+    "size": 2048,
+    "flags": 72,
+    "w": 64,
+    "h": 32
+   },
+   {
+    "data_offset": 2796680,
+    "size": 512,
+    "flags": 72,
+    "w": 32,
+    "h": 16
+   },
+   {
+    "data_offset": 2797224,
+    "size": 128,
+    "flags": 72,
+    "w": 16,
+    "h": 8
+   },
+   {
+    "data_offset": 2797384,
+    "size": 32,
+    "flags": 72,
+    "w": 8,
+    "h": 4
+   },
+   {
+    "data_offset": 2797448,
+    "size": 16,
+    "flags": 72,
+    "w": 4,
+    "h": 4
+   },
+   {
+    "data_offset": 2797496,
+    "size": 16,
+    "flags": 72,
+    "w": 4,
+    "h": 4
+   },
+   {
+    "data_offset": 2797544,
+    "size": 16,
+    "flags": 72,
+    "w": 4,
+    "h": 4
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/33_Map/33-Map.uasset",
+  "png": "33_Map.png",
+  "asset_size": 2797580
+ },
+ {
+  "format": "PF_DXT5",
+  "width": 2048,
+  "height": 1024,
+  "mips": [
+   {
+    "data_offset": 1004,
+    "size": 2097152,
+    "flags": 72,
+    "w": 2048,
+    "h": 1024
+   }
+  ],
+  "asset": "TheFidelioIncident/Content/Models/Notes/Diary/26_SecurePassports/26_SecurePassports.uasset",
+  "png": "26_SecurePassports.png",
+  "asset_size": 2098176
+ }
+]

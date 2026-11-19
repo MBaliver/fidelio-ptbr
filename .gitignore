@@ -1,0 +1,15 @@
+# ambiente e caches
+.venv/
+__pycache__/
+
+# gerados pelo build (refazer com os comandos do README)
+dist/
+texturas/
+
+# arquivos extraídos do jogo (refazer com tools/textures.py); textures.json fica
+imagens/originais/*.png
+
+# levas intermediárias de imagens; o que vai para o jogo é imagens/traduzidas/
+imagens/Traduzidas Gemini/
+imagens/traduzidas_v1/
+imagens/refazer/
